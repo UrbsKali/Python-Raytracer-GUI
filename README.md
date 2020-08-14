@@ -1,4 +1,6 @@
-# Python-Fast-Raytracer
+# WIP don't use now !
+
+# Python-Fast-Raytracer GUI
 
 A basic raytracer that exploits numpy arrays and functions to work fast.
 The code is written keeping as much readability as possible. 
@@ -59,6 +61,5 @@ python example_cornell_box.py
 Some animations:
 https://www.youtube.com/watch?v=vt9vAcZQT4A
 
-A basic version of this raytracer can be found here:
-https://github.com/jamesbowman/raytrace
+The original version of this raytracer is here : https://github.com/rafael-fuente/Python-Raytracer
 
